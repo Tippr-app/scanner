@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalReaderApp", "OpticalReaderApp\OpticalReaderApp.csproj", "{2097222F-A34E-4BB8-95BB-2E88961E55D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticalReaderLib", "OpticalReaderLib\OpticalReaderLib.csproj", "{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A8EF25C7-BD4E-40AC-B0F5-6BF3CC59D62C}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Debug|ARM.Build.0 = Debug|ARM
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Debug|x86.ActiveCfg = Debug|x86
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Debug|x86.Build.0 = Debug|x86
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Debug|x86.Deploy.0 = Debug|x86
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Release|ARM.ActiveCfg = Release|ARM
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Release|ARM.Build.0 = Release|ARM
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Release|ARM.Deploy.0 = Release|ARM
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Release|x86.ActiveCfg = Release|x86
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Release|x86.Build.0 = Release|x86
+		{2097222F-A34E-4BB8-95BB-2E88961E55D5}.Release|x86.Deploy.0 = Release|x86
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Debug|ARM.Build.0 = Debug|ARM
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Debug|x86.ActiveCfg = Debug|x86
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Debug|x86.Build.0 = Debug|x86
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Release|ARM.ActiveCfg = Release|ARM
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Release|ARM.Build.0 = Release|ARM
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Release|x86.ActiveCfg = Release|x86
+		{F08FB7E1-D8E1-4A55-879B-8E48A66EB77F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
